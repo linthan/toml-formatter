@@ -1,3 +1,3 @@
-module gitee.com/melican/toml-formatter
+module github.com/linthan/toml-formatter
 
-require github.com/pelletier/go-toml v1.3.0
+go 1.13

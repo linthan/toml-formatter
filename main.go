@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/pelletier/go-toml"
+	"github.com/linthan/toml-formatter/lib/go-toml"
 )
 
 func main() {
